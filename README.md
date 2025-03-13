@@ -58,11 +58,11 @@ This HR Analytics Dashboard visualizes key employee metrics from various departm
 
 ---
 
-## 📂 Files Included
-- `HR.pdf` : ![image](https://github.com/user-attachments/assets/3e0dce6f-eede-4b44-852a-f958fca98758)
-             ![image](https://github.com/user-attachments/assets/a16149f4-695f-4cb9-8392-13fc55c78282)
+## 📂Preview
 
-- `Power BI (.pbix)` file (Optional):
+![image](https://github.com/user-attachments/assets/3e0dce6f-eede-4b44-852a-f958fca98758)
+
+![image](https://github.com/user-attachments/assets/a16149f4-695f-4cb9-8392-13fc55c78282)
 
 ---
 
