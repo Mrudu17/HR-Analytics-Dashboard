@@ -1,8 +1,10 @@
 # 📊 HR Analytics Dashboard
 
-An interactive and insightful Power BI dashboard for Human Resource Analytics. This dashboard provides a deep dive into various HR metrics, helping organizations make data-driven decisions to improve employee satisfaction, performance, and retention.
 
-![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Logo" width="200"/>
+
+An interactive and insightful Power BI dashboard for Human Resource Analytics...
+
 
 ---
 
